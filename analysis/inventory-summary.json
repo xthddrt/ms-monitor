@@ -1,0 +1,25 @@
+{
+  "files": 391,
+  "bytes": 1205006566,
+  "pe_images": 46,
+  "pkg1_containers": 180,
+  "extensions": {
+    ".aes": 3,
+    ".bak": 1,
+    ".bat": 2,
+    ".bin": 2,
+    ".dat": 1,
+    ".dll": 37,
+    ".exe": 4,
+    ".hash": 1,
+    ".ini": 91,
+    ".log": 5,
+    ".md5": 1,
+    ".ms": 2,
+    ".pak": 56,
+    ".sys": 1,
+    ".txt": 1,
+    ".wz": 180,
+    "<none>": 3
+  }
+}
